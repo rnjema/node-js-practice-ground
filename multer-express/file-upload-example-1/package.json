@@ -1,0 +1,17 @@
+{
+  "name": "file-upload-example-1",
+  "version": "1.0.0",
+  "description": "Inspired by [Uploading files using Node.js and Multer](https://blog.logrocket.com/uploading-files-using-multer-and-node-js/) tutorial.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "multer": "^1.4.2"
+  }
+}
